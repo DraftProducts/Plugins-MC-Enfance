@@ -1,0 +1,6 @@
+name: Jump-Party
+author: DraftMan
+main: fr.draftman.JumpParty
+version: 1.0
+commands:
+  jump:

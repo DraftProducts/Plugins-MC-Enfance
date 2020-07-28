@@ -1,0 +1,47 @@
+#Plugin Jump Party by DraftMan
+#Version 1.0
+#CopyRight JumpParty by DraftMan
+
+CheckPointSet: "&8[&6JUMP&8] &rCheckpoint défini !"
+
+NoCheckPoint: "&8[&6JUMP&8] &rRetour au dernier checkpoint !"
+
+ReturnCheckPoint: "&8[&6JUMP&8] &rTu n'as pas de checkpoint !"
+
+QuitJump: "&8[&6JUMP&8] &rVous venez de quiter le jump !"
+
+FelicitationMsg: "&8[&6JUMP&8] &6Félicitation à <player> qui a réussi le Jump !"
+
+MinY: 6
+
+Title:
+  Title: "&2Bienjoué !"
+  SubTitle: "&dTu as réussi le jump"
+
+Start:
+  Block: REDSTONE_BLOCK
+  Plate: GOLD_PLATE
+
+Stop:
+  Block: REDSTONE_BLOCK
+  Plate: IRON_PLATE
+
+CheckPoint:
+  Block: HOPPER
+  Plate: STONE_PLATE
+
+Spawn:
+  x: 308.5
+  y: 78
+  z: 5068.5
+  worldName: world
+
+SpawnJump:
+  x: 312.5
+  y: 78
+  z: 5072.5
+  worldName: world
+
+Stop: 
+  Item: BARRIER
+  Name: "&cQuitter"

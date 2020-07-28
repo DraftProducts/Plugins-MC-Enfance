@@ -1,0 +1,10 @@
+autostart: 2
+killsforwin: 20
+messages:
+  prefix: "&7[&6Bomber&7] "
+  join: "&e<player> &7joined ! <&e<online>/<maxonline>)"
+  spectator: "&7Vous ètes spectateur !"
+  noenoughtplayers: "&cPas assez de joueurs"
+  start: "Lancement du jeu !"
+  won: "<player> a gagné le jeu !"
+  restarting: "Restart..."

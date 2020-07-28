@@ -1,0 +1,16 @@
+spawn: "-321.500,141.0,-125.500,0,0"
+autostart: 2
+maxperteam: 1
+pointsforwin: 5
+maxblocks: 106
+teams:
+  orange:
+    name: "Orange"
+    wooldata: 1
+    color: "&6"
+    spawn: "-296.500,105.00000,-126.500,90,0"
+  lime:
+    name: "Vert"
+    wooldata: 5
+    color: "&a"
+    spawn: "-341.500,105.00000,-126.500,-90,0"

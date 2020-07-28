@@ -1,0 +1,13 @@
+perm.stack
+perm.doublejump
+perm.staff
+perm.build
+perm.gm
+perm.maintenance
+perm.nick
+perm.prank
+perm.spawn
+
+perm.message.join
+perm.message.quit
+

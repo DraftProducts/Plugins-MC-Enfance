@@ -1,0 +1,8 @@
+name: Practice
+author: DraftMan
+version: 1.0
+main: fr.draftman.Practice
+commands:
+  unranked:
+  duel:
+  kit:

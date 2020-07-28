@@ -1,0 +1,45 @@
+spawn: "-54.500,49.0,-10.500,0.0,0.0"
+autostart: 2
+maxperteam: 2
+maxblocks: 75
+teams:
+  red:
+    name: "Rouge"
+    wooldata: 14
+    color: "&c"
+    spawn: "-29.500,49.00000,-58.500,180.0,15.0"
+  blue:
+    name: "Bleu"
+    wooldata: 11
+    color: "&9"
+    spawn: "-79.500,49.00000,-58.500,180.0,15.0"
+  green:
+    name: "Vert"
+    wooldata: 5
+    color: "&2"
+    spawn: "-123.500,49.00000,-14.500,-90.0,15.0"
+  pink:
+    name: "Rose"
+    wooldata: 6
+    color: "&d"
+    spawn: "-123.500,49.00000,-35.500,-90.0,15.0"
+  grey:
+    name: "Gris"
+    wooldata: 7
+    color: "&8"
+    spawn: "-79.500,49.00000,-79.500,0.0,15.0"
+  aqua:
+    name: "Aqua"
+    wooldata: 9
+    color: "&b"
+    spawn: "-29.500,49.00000,-79.500,0.0,15.0"
+  purple:
+    name: "Violet"
+    wooldata: 10
+    color: "&5"
+    spawn: "14.500,49.00000,-35.500,90.0,15.0"
+  white:
+    name: "Blanc"
+    wooldata: 0
+    color: "&f"
+    spawn: "14.500,49.00000,14.500,90.0,15.0"
